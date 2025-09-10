@@ -95,7 +95,7 @@ text
 
 ## Capturas de Tela
 
-![Run](./print/print (1).png)  
+![Run](./print/print1.png)  
 *Tela.*
 
 ![Run](./print/print (2).png)  
@@ -117,3 +117,4 @@ text
 *Tela.*
 
 ---
+
