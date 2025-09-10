@@ -110,12 +110,7 @@ text
 ![Run](./print/print5.png)  
 *Tela.*
 
-![Run](./print/print6.png)  
-*Tela.*
-
-![Run](./print/print7.png)  
-*Tela.*
-
 ---
+
 
 
