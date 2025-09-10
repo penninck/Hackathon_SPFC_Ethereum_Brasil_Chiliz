@@ -98,23 +98,24 @@ text
 ![Run](./print/print1.png)  
 *Tela.*
 
-![Run](./print/print (2).png)  
+![Run](./print/print2.png)  
 *Tela.*
 
-![Run](./print/print (3).png)  
+![Run](./print/print3.png)  
 *Tela.*
 
-![Run](./print/print (4).png)  
+![Run](./print/print4.png)  
 *Tela.*
 
-![Run](./print/print (5).png)  
+![Run](./print/print5.png)  
 *Tela.*
 
-![Run](./print/print (6).png)  
+![Run](./print/print6.png)  
 *Tela.*
 
-![Run](./print/print (7).png)  
+![Run](./print/print7.png)  
 *Tela.*
 
 ---
+
 
